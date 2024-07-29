@@ -1,0 +1,50 @@
+html {
+    background: rgb(221, 241, 234) ;
+    color: #666666; 
+    font-size: 18px;
+    font-family: 'Arial', Helvetica, sans-serif;
+}
+
+h2, h4 {
+    text-align: center;
+    color: #de865a;
+}
+
+p {
+    text-indent: 1em;
+}
+
+h4 {font-size: 1.2rem;}
+h2 {font-size: 1.6rem;}
+
+.main p {
+    line-height: 1.5;
+}
+
+.sobremim {
+    width: 80%;
+    margin: auto;
+}
+
+.sobremim ul li {
+    margin: 1em;
+}
+
+#home {
+    position: absolute;
+    top: 15%;
+    left: 75%;
+}
+
+a {
+    color: indianred;
+}
+
+a:hover {
+    color: lightcoral;
+}
+
+#home ul {
+    list-style-type: none;
+    line-height: 1.5;
+}
